@@ -1,3 +1,9 @@
 This is my styles file
 welcome to git task class
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
 
